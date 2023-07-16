@@ -1,0 +1,35 @@
+- Rating
+- code coverage
+- merge conflicts
+- code smells
+- test cases
+- pull requests merged
+- response time for code review
+- average code complexity
+- average code duplication
+- time to resolve issues
+- open issues
+- commit message
+- release note
+- pull request title
+- review comment
+- commit id
+- commit hash
+- commit author
+- release version
+- release date
+- successful builds per day
+- pipeline success rate
+- active contributors
+- Average time to merge
+- closed milestones
+- pull request id
+- reviewer
+- review comments
+- review duration
+- pull request state
+- time from ready to merge
+- pull request rate
+- pull request duration
+- merge ratio
+- code churn
